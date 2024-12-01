@@ -2,7 +2,6 @@ from django.db import models
 from parler.models import TranslatableModel, TranslatedFields
 from django.contrib import admin
 from parler.admin import TranslatableAdmin
-from embed_video.fields import EmbedVideoField
 
 # Model
 class Yangiliklar(TranslatableModel):
