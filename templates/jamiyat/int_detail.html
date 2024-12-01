@@ -1,0 +1,63 @@
+{% extends "base.html"%}
+{% load static %}
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% trans "Jamiyat tarixi" %}</title>
+</head>
+<body>
+    {% block content %}
+    <section id="stats" class="stats section light-background" style="background-color: white;">
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+          <div class="row gy-4">
+            <div class="accordion accordion-flush" style="margin-top: 300px;" id="accordionFlushExample">
+                {% if intrak %}
+                {% for i in intrak %}
+                <h1>
+                    {{i.nomi}}
+                </h1>
+                <div class="alert" role="alert">
+                    {% if i.image %}
+                    <img class="large-image" src="{{i.image.url}}" alt="">
+                    {% endif %}
+                    {{i.nomi}}
+                    <br><br><br>
+                    {{i.matn|linebreaks}}
+                    {% if i.file %}
+                    <a href="{{i.file.url}}" target="_blank" class="text-decoration-none">
+                        <div class="alert alert-primary d-flex align-items-center justify-content-start" role="alert">
+                            <img src="{% static 'img/pdf.png' %}" alt="" class="me-3" style="width: 40px; height: 40px;">
+                            <div style="display: grid;">
+                                <span class="fw-bold">{% trans "Nizom" %}</span> 
+                                <span class="fw-bold" style="color: rgb(250, 180, 2);">{% trans "Faylni yuklab olish" %}</span>
+                            </div>
+                        </div>
+                    </a>
+                    {% endif %}
+                </div>
+                {%  endfor %}                
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    </section>
+</body>
+</html>
+<style>
+    .large-image {
+    display: block;
+    max-width: 100%; /* Rasm sayt kengligiga moslashadi */
+    height: auto;    /* Proporsiyani saqlash */
+    margin: 20px auto; /* Markazga joylash */
+    width: 90%; /* Kattaroq o'lcham uchun kenglik belgilash */
+    border-radius: 10px; /* Rasm burchaklarini yumshatish */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Rasmga soyalar qo'shish */
+    height: 500px;
+}
+
+</style>                
+{% endblock %}

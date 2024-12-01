@@ -1,0 +1,480 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-26 10:53+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: .\templates\index.html:4
+msgid "Xush kelibsiz"
+msgstr ""
+
+#: .\templates\index.html:5
+msgid "Bu sahifa xalqaro til sozlamalarini qo'llab-quvvatlaydi."
+msgstr "Tis web site"
+
+msgid "Sayt test rejimida ishlamoqda."
+msgstr "The site is in test mode."
+msgid "Inglizcha"
+msgstr "English"
+
+msgid "Ruscha"
+msgstr "Russian"
+
+msgid "O'zbekcha"
+msgstr "Uzbek"
+
+msgid "Ishonch telefoni"
+msgstr "Hotline"
+
+msgid "Jamiyat haqida"
+msgstr "About the company"
+
+msgid "Jamiyat tarixi"
+msgstr "Company history"
+
+msgid "Jamiyat Jamiyat bugungi kunda"
+msgstr "The company today"
+
+msgid "Raxbariyat"
+msgstr "Management"
+
+msgid "Bo'sh ish o'rinlari"
+msgstr "Vacancies"
+
+msgid "Jamiyatni rivojlantirish strategiyasi"
+msgstr "Company development strategy"
+
+msgid "Jamiyatning biznes rejalari"
+msgstr "Company business plans"
+
+msgid "Tashkiliy tuzulma"
+msgstr "Organizational structure"
+
+msgid "Mahsulot va xizmatlar"
+msgstr "Products and services"
+
+msgid "Korporativ boshqaruv"
+msgstr "Corporate Governance"
+
+msgid "Boshqaruv organlari"
+msgstr "Governing Bodies"
+
+msgid "Kuzatuv kengashi"
+msgstr "Supervisory Board"
+
+msgid "Ijro etuvchi organ"
+msgstr "Executive Body"
+
+msgid "Ichki audit tizimi"
+msgstr "Internal Audit System"
+
+msgid "Taftish komissiyasi"
+msgstr "Inspection Commission"
+
+msgid "Axborotni oshkor qilish"
+msgstr "Information Disclosure"
+
+msgid "Yillik va chorak hisobotlar"
+msgstr "Annual and Quarterly Reports"
+
+msgid "Muhim faktlar"
+msgstr "Significant Facts"
+
+msgid "Affillangan shaxslar ro'yxati"
+msgstr "List of Affiliated Persons"
+
+msgid "Ichki nizom"
+msgstr "Internal regulation"
+
+msgid "Xalqaro audit"
+msgstr "International Audit"
+
+msgid "Interaktiv xizmatlar"
+msgstr "Interactive services"
+
+msgid "Auditor hulosasi"
+msgstr "Auditor's Conclusion"
+
+msgid "Emissiya risolalari"
+msgstr "Prospectuses of Emission"
+
+msgid "Dividentlar to'lanishi"
+msgstr "Dividend Payments"
+
+msgid "Biznes rejaning har bir bandining bajarilishi bo'yicha ma'lumot"
+msgstr "Information on the Fulfillment of Each Business Plan Item"
+
+msgid "Ijro organi a'zolarini mukofatlash"
+msgstr "Rewarding Executive Body Members"
+
+msgid "Ijro kengashi a'zolarini mukofatlash"
+msgstr "Rewarding Board Members"
+
+msgid "Aksiyadorlar umumiy yig'ilishi to'g'risida ma'lumot"
+msgstr "Information About the General Meeting of Shareholders"
+
+msgid "20 foizdan ortiq aksiyalarga egalik qiluvchi aksiyadorlar"
+msgstr "Shareholders owning more than 20 percent of the shares"
+
+msgid "Intraktiv xizmatlar"
+msgstr "Interactive Services"
+
+msgid "Jismoniy va yuridik shaxslar murojaatlari bo'yicha ma'lumotlar"
+msgstr "Information on Appeals of Individuals and Legal Entities"
+
+msgid "Xorijiy investorlar uchun"
+msgstr "For Foreign Investors"
+
+msgid "Matbuot xizmati"
+msgstr "Press Service"
+
+msgid "Video lavhalar"
+msgstr "Video Materials"
+
+msgid "Yangiliklar"
+msgstr "News"
+
+msgid "Fotogaleriya"
+msgstr "Photo Gallery"
+
+msgid "Jamiyat haqida OAV materiallari"
+msgstr "Media Materials About the Society"
+
+msgid "Tabriklar"
+msgstr "Greetings"
+
+msgid "E'lonlar"
+msgstr "Announcements"
+
+msgid "Aloqalar"
+msgstr "Contacts"
+
+msgid "Jamiyat boshqaruv rahbarining virtual qabulxonasi"
+msgstr "Virtual Reception of the Society's Management Head"
+
+msgid "Aksiyadorlar bilan aloqa qilish uchun telefon raqamlar"
+msgstr "Phone Numbers for Contacting Shareholders"
+
+msgid "Investorlar bilan aloqa qilish uchun telefon raqamlar"
+msgstr "Phone Numbers for Contacting Investors"
+
+msgid "Kerakli"
+msgstr "Necessary"
+
+msgid "Yillik haridlar jadvali"
+msgstr "Annual Procurement Schedule"
+
+msgid "Tender va birja"
+msgstr "Tenders and Exchange"
+
+msgid "Aksiya sotib olish"
+msgstr "Buying Shares"
+
+msgid "Arxiv"
+msgstr "Archive"
+
+msgid "Talimarjon issiqlik elektr stansiyasi"
+msgstr "Talimarjon Thermal Power Station"
+
+msgid "Maqsadimiz"
+msgstr "Our goal"
+
+msgid "ilg‘or va muvaffaqiyatli energetika kompaniyasiga aylanish"
+msgstr "To become a leading and successful energy company"
+
+msgid "Kasaba uyushmasi"
+msgstr "Labor Union"
+
+msgid "Korrupsiyaga qarshi kurashish"
+msgstr "Anti-Corruption Measures"
+
+msgid "Tender va tanlovlar"
+msgstr "Tenders and Competitions"
+
+msgid "Axborot so’rash tartibi"
+msgstr "Information Request Procedure"
+
+msgid "Yangi ish o’rinlari"
+msgstr "New Job Vacancies"
+
+msgid "Jamiyat ochiq ma'lumotlari"
+msgstr "Public Data of the Organization"
+
+msgid "Haftalik"
+msgstr "Weekly"
+
+msgid "Foydali"
+msgstr "Useful"
+
+msgid "Davlat veb-saytlari"
+msgstr "Government Websites"
+
+msgid "O'zbekiston Respublikasi Prezidenti"
+msgstr "President of the Republic of Uzbekistan"
+
+msgid "O'zbekiston Respublikasi Oliy Majlisi Senati"
+msgstr "Senate of the Oliy Majlis of the Republic of Uzbekistan"
+
+msgid "O'zbekiston Respublikasi Oliy Majlisi Qonunchilik Palatasi"
+msgstr "Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan"
+
+msgid "O'zbekiston Respublikasi Vazirlar Mahkamasi"
+msgstr "Cabinet of Ministers of the Republic of Uzbekistan"
+
+msgid "O'zbekiston Respublikasi Iqtisodiyot va Moliya Vazirligi"
+msgstr "Ministry of Economy and Finance of the Republic of Uzbekistan"
+
+msgid "Onlayn"
+msgstr "Online"
+
+msgid "so'rovnoma"
+msgstr "survey"
+
+msgid "Siz “Issiqlik elektr stansiyalari“ AJ tomonidan oʻtkazilayotgan soʻrovnomada ishtirok etmoqchimisiz?"
+msgstr "Would you like to participate in the survey conducted by “Thermal Power Plants” JSC?"
+
+msgid "Aksiyadorlar umumiy yig'ilishi to'g'risida nizom"
+msgstr "Regulation on General Shareholders' Meeting"
+
+msgid "Kuzatuv kengashi to'g'risida nizom"
+msgstr "Regulation on Supervisory Board"
+
+msgid "Ichki audit xizmati to'g'risida nizom"
+msgstr "Regulation on Internal Audit Service"
+
+msgid "Sanoq komissiyasi to'g'risida nizom"
+msgstr "Regulation on Counting Commission"
+
+msgid "Taftish komissiyasi to'g'risida nizom"
+msgstr "Regulation on Audit Commission"
+
+msgid "Ijro etuvchi organ to'g'risida nizom"
+msgstr "Regulation on Executive Body"
+
+msgid "Axborot siyosati to'g'risida nizom"
+msgstr "Regulation on Information Policy"
+
+msgid "Korporativ boshqaruv kodeksi"
+msgstr "Corporate Governance Code"
+
+msgid "Dividend siyosati to'g'risida nizom"
+msgstr "Regulation on Dividend Policy"
+
+msgid "Ichki nazorat to'g'risida nizom"
+msgstr "Regulation on Internal Control"
+
+msgid "Korporativ"
+msgstr "Corporate"
+
+msgid "Maslaxatchi"
+msgstr "Advisor"
+
+msgid "To'g'risida nizom"
+msgstr "Regulation"
+
+msgid "Manfatlar qarama"
+msgstr "Conflict of Interest"
+
+msgid "Qarshiligi vaqtida"
+msgstr "During Opposition"
+
+msgid "Xarakat qilish"
+msgstr "Action"
+
+msgid "Tartibi to'g'risida"
+msgstr "Regulation on Procedures"
+
+msgid "Ichki hujjatlar"
+msgstr "Internal documents"
+
+msgid "Nizom"
+msgstr "Regulation"
+
+msgid "Sayt xaritasi"
+msgstr "Site map"
+
+msgid "Issiqlik elektr stansiyalari aksiyadorlik jamiyati tarkibi"
+msgstr "The composition of the joint-stock company of thermal power plants"
+
+msgid "Qoraqalpog‘iston Respublikasi"
+msgstr "Republic of Karakalpakstan"
+
+msgid "Rasmiy saytga o'ting"
+msgstr "Go to the official site"
+
+msgid "Navoiy viloyati"
+msgstr "Navoi region"
+
+msgid "Qashqadaryo viloyati"
+msgstr "Kashqadaryo region"
+
+msgid "Sirdaryo viloyati"
+msgstr "Sirdaryo region"
+
+msgid "Tovuz viloyati"
+msgstr "Tovuz region"
+
+msgid "Toshkent"
+msgstr "Tashkent"
+
+msgid "Farg‘ona viloyati"
+msgstr "Fergana region"
+
+
+msgid "RAHBARIYAT"
+msgstr "Management"
+
+msgid "Ism va familiya"
+msgstr "Full Name"
+
+msgid "Lavozimi:"
+msgstr "Position"
+
+msgid "Qabul kunlari:"
+msgstr "Reception Days:"
+
+msgid "Pirmanov Jasurbek Nazarqulovich"
+msgstr "Pirmanov Jasurbek Nazarqulovich"
+
+msgid "Bosh direktor"
+msgstr "General Director"
+
+msgid "Har xafta payshanba kuni. Soat 10:00 dan 12:00 gacha"
+msgstr "Every Thursday from 10:00 to 12:00"
+
+msgid "Ahmedov Shovkat Zaripovich"
+msgstr "Ahmedov Shovkat Zaripovich"
+
+msgid "Ishlab chiqarish boʻyicha direktor"
+msgstr "Production Director"
+
+msgid "Har xafta seshanba kuni. Soat 15:00 dan 17:00 gacha"
+msgstr "Every Tuesday from 15:00 to 17:00"
+
+msgid "Radjabov Najmiddin Asqarovich"
+msgstr "Radjabov Najmiddin Asqarovich"
+
+msgid "Umumiy masalalar boʻyicha direktor"
+msgstr "General Affairs Director"
+
+msgid "Har xafta juma kuni. Soat 14:00 dan 16:00 gacha"
+msgstr "Every Friday from 14:00 to 16:00"
+
+msgid "Xaitov Ixtiyor Batirovich"
+msgstr "Xaitov Ixtiyor Batirovich"
+
+msgid "Tartibot va xavfsizlik boʻyicha direktor"
+msgstr "Safety and Security Director"
+
+msgid "Har xafta dushanba kuni. Soat 14:00 dan 16:00 gacha"
+msgstr "Every Monday from 14:00 to 16:00"
+
+msgid "BO'SH ISH O'RINLARI Agar Siz Kompaniyamizda ishlash istagida bo'lsangiz, o'z rezyumeyingizni bizga yuborishingiz yoki nomzod anketasini saytimizdan o'zingizga yuklab olib, to'ldirib, so'ng faks yoki e-mail orqali bizga yuborishingiz mumkin. Faks: +998755125710 E-mail: taltes@tpp.uz Sizga mos bo'sh ish o'rni paydo bo'lishi bilan Kompaniyamizning Kadrlarni boshqarish bo'limi xodimlari Siz bilan aloqaga chiqadilar. Anketani ko'chirib olish"
+msgstr "VACANT PLACES If you want to work in our company, you can send your resume or download the application form and fill it in, send it by fax or e-mail. Fax: +998755125710 E-mail: taltes@tpp.uz When a corresponding vacancy arises, the employees of our personnel management department will contact you Download application form"
+
+msgid "Faylni yuklab olish"
+msgstr "Download the file"
+
+msgid "Yuborish"
+msgstr "Send"
+
+msgid "Ismingiz"
+msgstr "Your Name"
+
+msgid "Emailingiz"
+msgstr "Your Email"
+
+msgid "Sarlavha"
+msgstr "Subject"
+
+msgid "Xabar"
+msgstr "Message"
+
+msgid "MAXSULOT VA XIZMATLAR"
+msgstr "PRODUCTS AND SERVICES"
+
+msgid "'Tolimarjon IES' AJ umumiy quvvati 1700 MVt. 800 MVtli 1-energkblok 2004-yilda ishga tushirilgan. 450 MVtli 1-bug‘-gaz qurilmasi 2016-yil oxirida, 450 MVtli 2-bug‘-gaz qurilmasi 2017-yil boshida ishga tushirilgan. Stansiya yiliga o‘rtacha 7,2 mlrd kVt soat elektr energiyasi ishlab chiqaradi. 1-va 2-bug‘-gaz qurilmalarida 1 kVt elektr energiyasi ishlab chiqarish uchun 214 gramm shartli yoqilg‘i sarflanadi. Stansiyada yiliga 25 000 Gkall issiqlik energiyasi ham ishlab chiqarilib, iste'molchilarga yetkazib beriladi."
+msgstr "The total capacity of the Tolimarjon Thermal Power Plant JSC is 1,700 MW. The 800 MW Unit 1 was commissioned in 2004. The 450 MW Unit 1 was commissioned at the end of 2016, and the 450 MW Unit 2 was commissioned at the beginning of 2017. The plant produces an average of 7.2 billion kWh of electricity per year. 214 grams of conventional fuel are consumed to produce 1 kW of electricity at Units 1 and 2. The plant also produces 25,000 Gcal of thermal energy per year and supplies it to consumers."
+
+msgid "Stansiyada 10 ta asosiy sex bo‘lib, bular Qozon turbina -1 sexi, Qozon turbina -2 sexi, Suvni kimyoviy tozalash sexi, Elektr sexi, Markaziy ta'mirlash sexi va Oqava suv inshootlari sexi, Suv inshootlari sexi, Ichimlik suvi ta'minoti sexi, Energosozlash sexlaridir."
+msgstr "There are 10 main workshops at the station, including the Boiler Turbine-1 Workshop, Boiler Turbine-2 Workshop, Chemical Water Treatment Workshop, Electrical Workshop, Central Repair Workshop, and Wastewater Facilities Workshop, Water Facilities Workshop, Drinking Water Supply Workshop, and Power Generation Workshop."
+
+msgid "Shuningdek, stansiya tarkibida 'Sohibqiron' nomidagi bolalar oromgohi ham mavjud."
+msgstr "The station also has a children's camp named 'Sahibqiron'."
+
+msgid "TASHKILIY TUZILMA"
+msgstr "ORGANIZATIONAL STRUCTURE"
+
+msgid "JAMIYATNING BIZNES REJALARI"
+msgstr "COMPANY BUSINESS PLANS"
+
+msgid "2020 yil biznes rejasi."
+msgstr "Business plan for 2020."
+
+msgid "2021 yil biznes rejasi."
+msgstr "Business plan for 2021."
+
+msgid "2022 yil biznes rejasi."
+msgstr "Business plan for 2022."
+
+msgid "2023 yil biznes rejasi."
+msgstr "Business plan for 2023."
+
+msgid "2024 yil biznes rejasi."
+msgstr "Business plan for 2024."
+
+msgid "JAMIYATNI RIVOJLANTARISH STRATEGIYASI"
+msgstr "SOCIETY DEVELOPMENT STRATEGY"
+
+msgid "Biz bilan Bo'glanish"
+msgstr "Contact us"
+
+msgid "Manzil"
+msgstr "Address"
+
+msgid "Telefon"
+msgstr "Phone"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Bog'lanish"
+msgstr "Contact"
+
+msgid "Barcha huquqlar himoyalangan"
+msgstr "All Rights Reserved"
+
+msgid "Elonlar"
+msgstr "Announcements"
+
+msgid "“Talimarjon issiqlik elektr stansiyasi” aksiyadorlik jamiyatining 2026 yilga rivojlanish STRATEGIYASI"
+msgstr "PRODUCTION STRATEGY of the 'Talimarjon Thermal Power Plant' Joint Stock Company for 2026"
+
+msgid "Elektr energetikasi korxonamizning etakchi, bazaviy sohalaridan birlashtiriladi. 2010 yil 2010 10:00 10:00:00. O'zbekistonning boy energetika salomatlik jamiyatida samarali davlat boshqaruvi mavjud suv-energetika resurslari va uglivodorod xom ashyosidan yuqori xonaga foydalanish, elektr energiyasiga talabni to'liq ta'minlash imkonini beradi."
+msgstr "Electric power is one of the leading, basic sectors of our enterprise. 2010 2010 10:00 10:00:00. Effective state management in the energy-rich healthy society of Uzbekistan allows for the maximum use of existing water and energy resources and hydrocarbon raw materials, fully meeting the demand for electric power."
+
+msgid "Bunda issiqlik energiyasi mamlakatimizda elektr energiyasini ishlab chiqarishning asosiy ma'nosi bo'lib qoladi va energiya tejamkor texnologiyalardan foydalanilgan holatda rivojlanishi butun mamlakat energiya tizimini ta'minlaydi."
+msgstr "In this case, thermal energy will remain the main source of electricity generation in our country, and its development, using energy-efficient technologies, will ensure the energy system of the entire country."
+
+msgid "Hozirgi vaqtda mamlakatimizning mavjud elektr energiyasi ishlab chiqarilishining qariyb 12 foiz “ Talimarjon issiqlik elektr stantsiyasi” aksiyadorlik jamiyati ulushiga keladi."
+msgstr "Currently, the Talimarjon Thermal Power Plant Joint Stock Company accounts for about 12 percent of our country's existing electricity production."
+
+msgid "Ushbu yarayonda “ Talimarjon issiqlik elektr stansiyasi” aksiyadorlik jamiyati elektr energiyasini ishlab chiqarish vazifalarini amalga oshirishga oshirib, davlatimiz korxonasi va xavfsizlik va xavfsizlik texnikasini qo'llab-quvvatlash maqsadida elektr energiyasini ishlab chiqarishga yordam beradi."
+msgstr "In this regard, the Talimarjon Thermal Power Plant Joint Stock Company will increase its electricity generation tasks and help our state enterprise and the company produce electricity in order to support safety and security equipment."
+
+msgid "Jamiyatning hozirgi holati"
+msgstr "The current state of society"
+

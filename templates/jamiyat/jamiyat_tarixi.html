@@ -1,0 +1,30 @@
+{% extends "base.html"%}
+{% load static %}
+{% load i18n %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% trans "Jamiyat tarixi" %}</title>
+</head>
+<body>
+    {% block content %}
+    <section id="stats" class="stats section light-background" style="background-color: white;">
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100" style="margin-top: 200px;">
+  
+          <div class="row gy-4">
+            <div class="accordion accordion-flush" style="margin-top: 100px;" id="accordionFlushExample">
+                <div class="alert" role="alert">
+                    {% trans "“Tolimarjon issiqlik elektr stansiyasi” Oʻzbekiston Respublikasi Energetika vazirligining “Tolimarjon DUKning asosiy faoliyatini tashkil etish toʻgʻrisida”gi qarori bilan 02.08.1987 yildagi 209-son, hokimning qarori bilan tashkil etilgan. Qashqadaryo viloyati Nishon tumanining 2004-yil 18-noyabrdagi 21-380/11-son, unitar korxona shakliga o‘tkazilgan.O‘zbekiston Respublikasi Prezidentining 2019-yil 27-martdagi qaroriga muvofiq. PQ-4249-son “O‘zbekiston Respublikasining elektr energetika tarmog‘ini yanada rivojlantirish va isloh qilish strategiyasi to‘g‘risida”gi, shuningdek, 2019-yil 29-avgustdagi 1-sonli hujjat asosida “Issiq elektr stansiyalari” AJ unitar “Tolimarjon issiqlik elektr stansiyasi” korxonasi “Tolimarjon issiqlik elektr stansiyasi” aksiyadorlik jamiyati shakliga oʻtkazildi." %}
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+</body>
+</html>
+
+{% endblock %}

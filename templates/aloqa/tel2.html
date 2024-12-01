@@ -1,0 +1,43 @@
+{% extends "base.html"%}
+{% load static %}
+{% load i18n %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% trans "Jamiyat tarixi" %}</title>
+</head>
+<body>
+    {% block content %}
+    <section id="stats" class="stats section light-background" style="background-color: white;">
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100" style="margin-top: 200px;">
+  
+          <div class="row gy-4">
+            <h1>{% trans "AKSIYADORLAR BILAN ALOQA QILISH UCHUN TELEFON RAQAMLAR." %}</h1>
+            <div class="accordion accordion-flush" style="margin-top: 100px;" id="accordionFlushExample">
+                <div class="alert" role="alert">
+                    <p>
+                        <strong>Aksiyadorlar va chet el investorlar uchun tezkor bog‘lanish telefon raqami:</strong><br>
+                        (+998 75) 512-57-12
+                    </p>
+                    <p>
+                        <strong>Aksiyadorlar va xorijiy investorlar bilan bog‘lanish uchun ishonch telefoni:</strong><br>
+                        (+998 75) 512-57-12
+                    </p>
+                    <p>
+                        <strong>Aksiyadorlar va xorijiy investorlar bilan bog‘lanish uchun ishlab chiqarish telefonlari:</strong><br>
+                        (+998 75) 512-57-12
+                    </p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    </section>
+</body>
+</html>
+
+{% endblock %}

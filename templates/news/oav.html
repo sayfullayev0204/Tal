@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% load static %}
+{% load i18n %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% trans "Jamiyat tarixi" %}</title>
+</head>
+<body>
+    {% block content %}
+    <section id="stats" class="stats section light-background" style="background-color: white; padding-top: 300px;">
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+            <h1 class="text-center mb-5">{% trans "Elonlar" %}</h1>
+          <div class="row gy-4">
+            {% for i in list %}
+            <div class="accordion accordion-flush" id="accordionFlushExample">
+                <div class="alert" role="alert">
+                    <div class="card mb-4">
+                        {% if i.main_image %}
+                        <img src="{{ i.main_image.url }}" class="card-img-top" alt="{{ i.sarlavha }}">
+                        {% endif %}
+                        <div class="card-body">
+                            <h5 class="card-title">{{ i.sarlavha }}</h5>
+                            {% if i.audio %}
+                            <audio controls>
+                                <source src="{{ i.audio.url }}" type="audio/mpeg">
+                                {% trans "Sizning brauzeringiz audioni qo'llab-quvvatlamaydi." %}
+                            </audio>
+                            {% endif %}
+                            {% if i.file %}
+                            <a href="{{i.file.url}}" class="text-decoration-none">
+                                <div class="alert alert-primary d-flex align-items-center justify-content-start" role="alert">
+                                    <img src="{% static 'img/pdf.png' %}" alt="" class="me-3" style="width: 40px; height: 40px;">
+                                    <span class="fw-bold">{% trans "Faylni yuklab olish" %}</span>
+                                </div>
+                            </a>
+                            {% endif %}
+                            <p class="text-muted mt-3"><small>{{ i.date }}</small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+    </section>
+    {% endblock %}
+</body>
+</html>

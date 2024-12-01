@@ -1,0 +1,91 @@
+{% extends "base.html"%}
+{% load static %}
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% trans "Jamiyat tarixi" %}</title>
+</head>
+<body>
+    {% block content %}
+    <section id="contact" class="contact section" style="margin-top: 200px;">
+
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+          <div><span>{% trans 'Jamiyat boshqaruv rahbarining virtual qabulxonasi' %}</div>
+        </div><!-- End Section Title -->
+  
+        <div class="container" data-aos="fade" data-aos-delay="100">
+  
+          <div class="row gy-4">
+  
+            <div class="col-lg-4">
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                <i class="bi bi-geo-alt flex-shrink-0"></i>
+                <div>
+                  <h3>Manzil</h3>
+                  <p>Qashqadaryo</p>
+                </div>
+              </div><!-- End Info Item -->
+  
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                <i class="bi bi-telephone flex-shrink-0"></i>
+                <div>
+                  <h3>Telefon</h3>
+                  <p>+9989999999</p>
+                </div>
+              </div><!-- End Info Item -->
+  
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                <i class="bi bi-envelope flex-shrink-0"></i>
+                <div>
+                  <h3>Email</h3>
+                  <p>info@example.com</p>
+                </div>
+              </div><!-- End Info Item -->
+  
+            </div>
+  
+            <div class="col-lg-8">
+              <form method="post" class="email-form">
+                  {% csrf_token %}
+                  <div class="row gy-4">
+          
+                      <div class="col-md-6">
+                          <input type="text" name="name" class="form-control" placeholder="{% trans 'Ismingiz' %}" required="" value="{{ form.name.value|default:'' }}">
+                      </div>
+          
+                      <div class="col-md-6">
+                          <input type="email" class="form-control" name="email" placeholder="{% trans 'Emailingiz' %}" required="" value="{{ form.email.value|default:'' }}">
+                      </div>
+          
+                      <div class="col-md-12">
+                          <input type="text" class="form-control" name="title" placeholder="{% trans 'Sarlavha' %}" required="" value="{{ form.title.value|default:'' }}">
+                      </div>
+          
+                      <div class="col-md-12">
+                          <textarea class="form-control" name="message" rows="6" placeholder="{% trans 'Xabar' %}" required="">{{ form.message.value|default:'' }}</textarea>
+                      </div>
+          
+                      <div class="col-md-12 text-center">
+          
+                          <button type="submit" class="button" style="color: #fff; background: #1acc8d;border: 0;padding: 10px 30px;transition: 0.4s;border-radius: 50px;">{% trans 'Yuborish' %}</button>
+                      </div>
+          
+                  </div>
+              </form>
+          
+            </div><!-- End Contact Form -->
+  
+          </div>
+  
+        </div>
+  
+      </section><!-- /Contact Section -->
+  
+</body>
+</html>
+
+{% endblock %}
